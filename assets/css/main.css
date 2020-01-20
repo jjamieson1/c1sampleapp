@@ -1,0 +1,27 @@
+.grey-background {
+    background-color: #eeeeee;
+}
+
+.pull-right {
+    position: absolute;
+    right: 20px;
+}
+
+.bottom-padding {
+    margin-top: 400px;
+}
+
+.footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#eeeeee;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.center {
+
+}
